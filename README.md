@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=嘻嘻ovo)
 - 👋 Hi, I’m @chengdachun
 - 👀 I’m interested in html/css/javaScript/vue/react/java
 - 🌱 I’m currently learning vue/node.js
